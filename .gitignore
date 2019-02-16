@@ -1,0 +1,12 @@
+.secret_file.py
+/secret_file.py
+.geckodriver.log
+/geckodriver.log
+.chromedriver
+/chromedriver
+.chromedriver_mac64.zip
+/chromedriver_mac64.zip
+.env
+/env
+.__pycache__
+/__pycache__
